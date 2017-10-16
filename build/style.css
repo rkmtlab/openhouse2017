@@ -154,11 +154,11 @@ p {
   margin: 0 0 0.75em; }
 
 a {
-  color: #1565c0;
+  color: #f2f2f2;
   text-decoration: none;
   transition: color 150ms ease; }
   a:active, a:focus, a:hover {
-    color: #104c90; }
+    color: #a6a6a6; }
 
 hr {
   border-bottom: 1px solid #ddd;
